@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,400;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.page {
+    background-color: rgb(227, 242, 253);
+    min-height: calc(100vh - 20px);
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 12px 12px 0px 0px;
+}
